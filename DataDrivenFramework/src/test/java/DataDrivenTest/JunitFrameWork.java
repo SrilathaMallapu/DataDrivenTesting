@@ -7,6 +7,8 @@ public class JunitFrameWork {
 	// this is fourth commit made by branch1 without latest code
 	// this is third comment from branch2 
 	// this is the 6th comment from branch1 without latest branch2 update
+	//this is commit made by branch2 to check the pulling one
+
 	public void JunitTestMethod()
 	
 	{
