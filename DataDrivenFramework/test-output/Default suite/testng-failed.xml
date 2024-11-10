@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="DataDrivenTest.LoginTest">
+      <class name="com.organge.hrm.admin.JobTitles">
         <methods>
-          <include name="LaunchBrowser"/>
-          <include name="CloseBrowser"/>
-          <include name="LoginTest2" invocation-numbers="0"/>
+          <include name="invalid_Test"/>
         </methods>
-      </class> <!-- DataDrivenTest.LoginTest -->
+      </class> <!-- com.organge.hrm.admin.JobTitles -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
